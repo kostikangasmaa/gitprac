@@ -1,4 +1,4 @@
-At the top a of of the output of git status, you can see the following text: On branch main. Branches allow separating some commits from others. This means that a new branch can be developed independently from an old branch. It is customary for projects to have a main branch, usually called literally main or alternatively master, containing the version currently in use.
+ Merge ? At the top a of of the output of git status, you can see the following text: On branch main. Branches allow separating some commits from others. This means that a new branch can be developed independently from an old branch. It is customary for projects to have a main branch, usually called literally main or alternatively master, containing the version currently in use.
 
 Traditionally git has used the term master to refer to the main or default branch. During years 2020 and 2021 many platforms, such as GitHub and Gitlab, transitioned into using main as the default name for this branch. Git itself followed suit in 2021 and recent versions of git create a branch named main by default.
 
